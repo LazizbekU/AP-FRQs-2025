@@ -4,7 +4,7 @@
 This section contains my analysis of Question 1 (Methods and Control Structures):
 
 #### My initial approach during the exam:
-- i tryed to read minimun. This didn't work on my favor, I lost lots of time.
+- I tryed to read minimun. This didn't work in my favor because I lost lots of time after I got confused.
   
 #### My revised solution after review:
 - I made the code much simplier, I didn't overthink it and did the minimum to meet all the conditions.
