@@ -1,5 +1,5 @@
 public String getSignature() {
-    if (firstName.equals("") || null) {
+    if (firstName == null || firstName.equals("")) {
         return lastName;
     }
     return firstName.substring(0, 1) + "-" + lastName;
