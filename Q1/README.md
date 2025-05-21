@@ -10,7 +10,7 @@ This section contains my analysis of Question 1 (Methods and Control Structures)
 - I made the code much simplier, I didn't overthink it and did the minimum to meet all the conditions.
   
 #### Key concepts tested in this question:
-- Ideas here
+- The idea of this question is if you can use if statements as the question asks.
   
 #### What I learned from revisiting this problem:
-- Ideas here
+- I learned to never rush the question because it can make you lose lots of time instead of saving time (T-T)
